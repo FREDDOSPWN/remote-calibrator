@@ -11,7 +11,7 @@ import { colorDarkRed } from './constants'
 import text from './text.json'
 
 // TODO Make it customizable
-const defaultObj = 'usba'
+const defaultObj = 'card'
 
 const resources = {
   card: Card,
